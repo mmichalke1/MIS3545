@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 sup
 added second line
 added 3rd line
 
+=======
+sup
+>>>>>>> parent of f26d8ab... added to test
